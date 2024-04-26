@@ -1,0 +1,23 @@
+div{
+  box-sizing:border-box;
+  outline:1px solid red;
+  padding:2.0em;
+}
+
+/* (a) */
+/* .holder{
+  display:flex;
+  justify-content:space-around;
+} */
+
+/* (b) */
+/* .holder{
+  display:flex;
+  justify-content:flex-end;
+} */
+
+/* (c) */
+/* .holder{
+  display:flex;
+  justify-content:flex-start;
+} */

@@ -1,0 +1,19 @@
+div, header, footer, section{
+  box-sizing:border-box;
+  outline:1px solid red;
+  padding:2.0em;
+}
+
+/* (c) */
+.holder{
+	display: grid;
+	grid-template-columns: 1fr 3fr 1fr;
+}
+header{
+  grid-column-start:1;
+  grid-column-end:4;
+}
+footer{
+  grid-column-start:1;
+  grid-column-end:4;
+}

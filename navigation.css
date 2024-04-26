@@ -1,0 +1,24 @@
+body{
+	font-family:Arial, Helvetica, sans-serif;
+}
+nav{
+	margin:2em;
+}
+.nav-bar{
+	list-style-type:none;
+}
+
+.nav-opt{
+	display:inline-block;
+}
+
+.nav-opt a{
+	text-decoration:none;
+	padding:1.0em;
+	background-color:#1d1f1e;
+	color: #fd504e;
+	transition:all 0.3s;
+}
+.nav-opt a:hover{
+  box-shadow:0px 3px 5px #1d1f1e;
+}
