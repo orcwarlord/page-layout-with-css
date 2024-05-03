@@ -1,4 +1,4 @@
-# CFT2111 Page Layout with CSS
+# Page Layout with CSS
 1. Download the file [list-based-navigation.html](list-based-navigation.html).
     * Add some CSS to this page. Check it works.
     * Try and make the list into a horizontal navigation bar.
